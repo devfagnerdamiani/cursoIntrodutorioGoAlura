@@ -10,9 +10,3 @@
 03/05/2024 07:34:28 | https://www.alura.com.br -  online : true
 03/05/2024 07:34:28 | https://www.caelum.com.br -  online : true
 03/05/2024 07:34:29 | https://google.com.br -  online : true
-03/05/2024 08:59:23 | https://www.alura.com.br -  online : true
-03/05/2024 08:59:25 | https://www.caelum.com.br -  online : true
-03/05/2024 08:59:25 | https://google.com.br -  online : true
-03/05/2024 08:59:30 | https://www.alura.com.br -  online : true
-03/05/2024 08:59:31 | https://www.caelum.com.br -  online : true
-03/05/2024 08:59:31 | https://google.com.br -  online : true
