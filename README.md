@@ -5,6 +5,6 @@
 
 ## :rocket::rocket: Tecnologias
 <div>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" a= "https://go.dev/">
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
 
 </div>
