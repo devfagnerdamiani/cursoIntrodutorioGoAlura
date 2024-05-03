@@ -159,8 +159,8 @@ func testaSite(site string) {
 func leSitesDoArquivo() []string {
 	var sites []string
 
-	//	arquivo, err := os.Open("Sites.txt")
-	arquivo, err := os.Open("c://x//Sites.txt")
+	arquivo, err := os.Open("Sites.txt") // nesta linha o algoritimo busca o arquivo dentro da pasta deste projeto
+	//	arquivo, err := os.Open("c://x//Sites.txt") // nesta linha o algoritimo busca o arquivo na pasta raiz c://
 	// arquivo, err := os.Open("c://Sites.txt") // nesta linha o algoritimo busca o arquivo insistente na pasta apontada
 	//arquivo, err := ioutil.ReadFile("Sites.txt")
 
