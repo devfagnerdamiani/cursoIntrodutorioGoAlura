@@ -4,7 +4,7 @@ import (
 	"bufio"     // Pacote de Leitor de arquivo linha a linha
 	"fmt"       // Pacote de imprimir na tela
 	"io"        // Pacote de abrir arquivo
-	"io/ioutil" // Pacote para Escrever no arquivo
+	"io/ioutil" // Pacote para Escrever no arquivo // Esse pacote esta depreciado é preciso ver o subistituto dele
 	"net/http"  // Pacote de Testar site
 	"os"        // Pacote de comunicação com sistema operacional
 	"strconv"   // Pacote de conversão de String para Booleano
